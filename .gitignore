@@ -1,4 +1,5 @@
 .env
+.env.example
 .ipynb_checkpoints/
 *.ipynb
 prepared_uploads/
