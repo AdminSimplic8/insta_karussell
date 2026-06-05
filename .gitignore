@@ -1,0 +1,6 @@
+.env
+.ipynb_checkpoints/
+*.ipynb
+prepared_uploads/
+__pycache__/
+*.pyc
