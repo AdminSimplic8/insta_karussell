@@ -5,3 +5,14 @@
 prepared_uploads/
 __pycache__/
 *.pyc
+
+# Local-only strategy and production memory.
+content_log.txt
+content_system/
+simplic8_pre_post_richtlinien.txt
+assets/
+
+# GitHub is only a temporary image transport for Instagram.
+# Future posting runs may force-add selected files briefly, push,
+# publish to Instagram, then remove them from GitHub again.
+images/
